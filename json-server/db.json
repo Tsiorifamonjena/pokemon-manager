@@ -1,0 +1,31 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Pikachu",
+      "description": "Plus la puissance électrique de Pikachu est élevée, plus les poches de ses joues sont extensibles.",
+      "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+      "size": 40,
+      "weight": 6,
+      "type": "electricity"
+    },
+    {
+      "id": 2,
+      "name": "Dracaufeu",
+      "description": "Son souffle brûlant peut faire fondre la roche. Il est parfois la cause d’incendies de forêt.",
+      "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+      "size": 170,
+      "weight": 90.5,
+      "type": "fire"
+    },
+    {
+      "name": "Salamèche",
+      "description": "lorem ipsum lorem ipsum",
+      "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
+      "size": "35",
+      "weight": "12",
+      "type": "fire",
+      "id": 3
+    }
+  ]
+}
